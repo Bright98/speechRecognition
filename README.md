@@ -8,3 +8,7 @@ this project recognize 2 word : 'sholugh' & 'khalvat' (in persian)
 <p>
     <img src="icon/screenshot_UI.png">
 </p>
+
+- press record to record your voice and the project will recognize what you said
+- start recording as soon as press button
+- duration of recording is 3 second
